@@ -1,0 +1,11 @@
+<resources>
+    <string name="ButtonSobre_txt">Sobre</string>
+    <string name="ButtonSair_txt">Sair</string>
+    <string name="app_name">Minha Segunda App</string>
+    <string name="TextviewSobre_txt">Alguma coisa sobre a aplicação</string>
+    <string name="titleSobreActivity_txt">Sobre</string>
+    <string name="radioButtonMasculino_txt">Masculino</string>
+    <string name="radioButtonFeminino_txt">Feminino</string>
+    <string name="button1_txt">Configure</string>
+    <string name="titleConfigActivity_txt">Configuração</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="button1_txt">Config</string>
+    <string name="ButtonSobre_txt">About</string>
+    <string name="ButtonSair_txt">Exit</string>
+    <string name="TextviewSobre_txt">Something about the appliaction</string>
+    <string name="titleSobreActivity_txt">About</string>
+    <string name="radioButtonMasculino_txt">Male</string>
+    <string name="radioButtonFeminino_txt">Female</string>
+    <string name="titleConfigActivity_txt">Configuration</string>
+</resources>
